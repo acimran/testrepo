@@ -1,0 +1,2 @@
+module checkgit_javaproject {
+}
